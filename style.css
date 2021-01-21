@@ -1,0 +1,17 @@
+*{
+    background-color:blanchedalmond;
+    
+}
+img{
+    border:solid;
+}
+.header{
+    color: #66ff33;
+    display:flex;
+    justify-content: space-between
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+justify-content: space-evenl ;
+}
